@@ -4,7 +4,7 @@ p_ programming, _ESP Spanish,
 
 <h6 align="justify">And this specific repository is about the SOLIDWORKS software.</h6>
 
-[![MasterHead](http://dicer0.com/wp-content/uploads/2023/09/Node.js-di_cer0-Banner.png)](https://dicer0.com/#skills)
+[![MasterHead](http://dicer0.com/wp-content/uploads/2023/09/Node.js-di_cer0-Bannerts.png)](https://dicer0.com/#skills)
 # p_Node.js_ESP
 <h6 align="justify">
   <ul>
