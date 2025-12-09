@@ -1,0 +1,16 @@
+{
+  "name": "poke-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "start": "next start -p 3000",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@mui/material": "^5.14.0",
+    "next": "^14.2.33",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swr": "^2.3.7"
+  }
+}
