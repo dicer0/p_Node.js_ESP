@@ -10,7 +10,7 @@ export async function fetchPokemonDetail(name) {
 }
 
 export async function fetchAllPokemon() {
-  const res = await fetch("https://pokeapi.co/api/v2/pokemon?limit=20");
+  const res = await fetch("https://pokeapi.co/api/v2/pokemon?limit=1302");
   const list = await res.json();
 
   const results = await Promise.all(
